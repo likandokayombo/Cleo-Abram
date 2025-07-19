@@ -57,7 +57,7 @@ const Hero = () => {
         {/* Animated paragraph */}
         <motion.p 
           className="text-xl md:text-2xl max-w-2xl mx-auto mb-8"
-          style={{ color: '#3d11d8ff' }}
+          style={{ color: '#dcdae6ff' }}
           variants={childVariants}
         >
           Video journalist making Huge if true, an optimistic show about tech.
